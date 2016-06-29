@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="ignore_current_version">忽略该版</string>
+    <string name="loading_str">努力加载中...</string>
+    <string name="request_failed_str">请求失败，请检查网络后再试</string>
+    <string name="btn_start_str">进入</string>
+
+    <!-- version update str start -->
+    <string name="version_update_title">发现新版本</string>
+    <string name="version_update_message01">软件有更新，要下载安装吗？\n最新版本：</string>
+    <string name="version_update_message02">\n版本说明：</string>
+    <string name="version_update_btn_sure">更新</string>
+    <string name="version_update_btn_cancel">下次再说</string>
+    <string name="version_update_no_url">未获取到当前下载地址</string>
+    <!-- version update str end -->
+</resources>
